@@ -1,0 +1,5 @@
+<odoo>
+    <menuitem id="type_second_level" name="Settings" parent="root_level">
+        <menuitem id="type_thirs_level" action="types" />
+    </menuitem>
+</odoo>

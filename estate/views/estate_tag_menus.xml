@@ -1,0 +1,4 @@
+<odoo>
+    <menuitem id="tag_third_level" action="tags" parent="type_second_level" />
+
+</odoo>
